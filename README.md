@@ -1,1 +1,1 @@
-java function create, creats a function id number of inputs and formula to computes
+creat multi keys on output.txt file on output
